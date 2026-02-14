@@ -12,7 +12,7 @@ I'm a **Software Engineer** and **Electrical & Computer Engineer (MEng)** gradua
 
 - 📍 Based in **Thessaloniki, Greece**
 - 🛠️ Currently focusing on **Go**, **Svelte 5**, and **LLM Integration**
-- 🎓 MEng Thesis: **RationVet** — A veterinary nutritional platform using WebAssembly solvers.
+- 🎓 MEng Thesis: **RationVet**: A veterinary nutritional platform using WebAssembly solvers.
 - 👨‍💻 I build tools that solve my own problems (and hopefully yours too).
 
 ---
