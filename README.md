@@ -19,12 +19,6 @@ I'm a **Software Engineer** and **Electrical & Computer Engineer (MEng)** gradua
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://https://github-readme-stats-sigma-snowy-8hdhzl52jq.vercel.app/api?username=angelospk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="angelospk's GitHub stats" />
-  <br/>
-  <img src="https://https://github-readme-stats-sigma-snowy-8hdhzl52jq.vercel.app/api/top-langs/?username=angelospk&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="Top Langs" />
-</div>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelospk&theme=tokyonight" alt="GitHub Streak" />
 </p>
