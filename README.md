@@ -60,6 +60,7 @@ I'm a **Software Engineer** and **Electrical & Computer Engineer (MEng)** gradua
 
 ### 🌟 Featured Projects
 
+- 🎬 **[AiMovie](https://github.com/angelospk/aimovie)** - AI-powered movie and TV show recommendations based on viewing history.
 - 🐾 **[RationVet](https://rationvetauth.vercel.app/)** - Veterinary nutritional optimization with SvelteKit & WebAssembly.
 - 🛒 **[Skroutz Vanced](https://github.com/angelospk/skroutz-vanced)** - Browser extension for price history and smart shopping on Skroutz.gr.
 - 📊 **[Diesi Analytics](https://angelospk.github.io/projects/diesi-analytics/)** - Radio station analytics with Python, FastAPI, and Vue.js.
