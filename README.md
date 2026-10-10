@@ -1,19 +1,19 @@
 # <p align="center">Hi there, I'm Angelos! 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Electrical+and+Computer+Engineer;AI+%26+Automation+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Greek+Voice+AI;Civic+Tech+%26+Open+Data;AI+Agent+Tooling" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a **Software Engineer** and **Electrical & Computer Engineer (MEng)** graduate from the **Aristotle University of Thessaloniki**. I specialize in building high-performance applications, automating complex workflows, and integrating AI into real-world products.
+I'm a **software engineer** with an **MEng in Electrical & Computer Engineering** from the **Aristotle University of Thessaloniki**. I build software for people who run a service and have no engineering team, and I care most about tools that work in Greek.
 
 - 📍 Based in **Thessaloniki, Greece**
-- 🛠️ Currently focusing on **Go**, **Svelte 5**, and **LLM Integration**
-- 🎓 MEng Thesis: **RationVet**: A veterinary nutritional platform using WebAssembly solvers.
-- 👨‍💻 I build tools that solve my own problems (and hopefully yours too).
+- 🎙️ **Google Summer of Code 2026** with [OpenCouncil](https://opencouncil.gr): Greek speech-recognition benchmarks and a published Whisper LoRA model
+- 🛠️ Python, Go and TypeScript, from the database schema to deployment
+- 👨‍💻 Most of what's here started as a problem I or someone near me had
 
 ---
 
@@ -58,15 +58,32 @@ I'm a **Software Engineer** and **Electrical & Computer Engineer (MEng)** gradua
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 What I build
 
-- 🎬 **[AiMovie](https://github.com/angelospk/aimovie)** - AI-powered movie and TV show recommendations based on viewing history.
-- 🐾 **[RationVet](https://rationvetauth.vercel.app/)** - Veterinary nutritional optimization with SvelteKit & WebAssembly.
-- 🛒 **[Skroutz Vanced](https://github.com/angelospk/skroutz-vanced)** - Browser extension for price history and smart shopping on Skroutz.gr.
-- 📊 **[Diesi Analytics](https://angelospk.github.io/projects/diesi-analytics/)** - Radio station analytics with Python, FastAPI, and Vue.js.
-- 💻 **[PC Basics](https://angelospk.github.io/projects/pcbasics/)** - Educational platform for digital literacy built with Svelte 5 and SvelteKit.
-- 🍔 **[Order Local](https://angelospk.github.io/projects/order-local/)** - Self-hosted restaurant ordering system built with Go, HTMX, and SQLite.
-- 🤖 **[Gemini RAG Demo](https://github.com/angelospk/gemini-rag-demo)** - Q&A system for Greek government gazettes (ΦΕΚ) using RAG.
+**🎙️ Greek voice AI**
+- **[OpenCouncil ASR](https://angelospk.github.io/projects/greek-council-asr/)** - GSoC 2026: the benchmark that picked OpenCouncil's transcription provider, plus a Greek Whisper LoRA model.
+- **[Dictation stack](https://angelospk.github.io/projects/dictation-stack/)** - macOS live dictation with AI cleanup, built on Soniox.
+- **[Aloud](https://angelospk.github.io/projects/aloud/)** - Voice front end for finding a public-health appointment.
+
+**🏛️ Civic tech & open data**
+- **[Atlas Prosvasis](https://atlas.haroldpoi.dev)** - Where in Greece you can actually book a public doctor, by prefecture and specialty.
+- **[FindDoctors](https://github.com/angelospk/find_doctors_server)** - Go service that finds the earliest public appointment across hospitals and health centres.
+- **[Carpool](https://angelospk.github.io/projects/carpool/)** - Region-scoped, self-hosted ride sharing.
+
+**🤖 AI agent tooling**
+- **[Nightshift](https://angelospk.github.io/projects/nightshift/)** - Overnight coding-agent runs that refuse to start when the budget is unknown.
+- **[Brain](https://angelospk.github.io/projects/brain/)** - Retrieval over my own notes, with a human approval gate.
+- **[Project secretary](https://angelospk.github.io/projects/project-secretary/)** - Finds duplicate issues and PRs across GitHub repos.
+
+**🏠 Small-business software**
+- **[Roomly](https://roomly.haroldpoi.dev)** - Shared-household hub for bills, chores and the calendar (React, TanStack Start, Supabase).
+- **[UniTrip](https://angelospk.github.io/projects/unitrip/)** - Group trip bookings, card payments and a back office for a travel company (client work).
+- **[Order Local](https://angelospk.github.io/projects/order-local/)** - Self-hosted restaurant ordering with Go, HTMX and SQLite.
+
+**🎬 Media & subtitles**
+- **[SubtitleKit](https://angelospk.github.io/projects/subtitlekit/)** · **[AiMovie](https://github.com/angelospk/aimovie)** · **[RationVet](https://rationvetauth.vercel.app/)** (MEng thesis)
+
+All projects: **[angelospk.github.io/projects](https://angelospk.github.io/projects/)**
 
 ---
 
