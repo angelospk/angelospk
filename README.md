@@ -67,6 +67,7 @@ I'm a **software engineer** with an **MEng in Electrical & Computer Engineering*
 
 **🏛️ Civic tech & open data**
 - **[Atlas Prosvasis](https://atlas.haroldpoi.dev)** - Where in Greece you can actually book a public doctor, by prefecture and specialty.
+- **[Athens Transit](https://bus.haroldpoi.dev)** - Live map of Athens buses and trolleys with arrivals at every stop: [web map](https://github.com/angelospk/athens-transit-map) (Svelte), [GTFS-Realtime API](https://github.com/angelospk/athens-transit-rt) (Go), [mobile app](https://github.com/angelospk/athens-transit-app) (Flutter).
 - **[FindDoctors](https://github.com/angelospk/find_doctors_server)** - Go service that finds the earliest public appointment across hospitals and health centres.
 - **[Carpool](https://angelospk.github.io/projects/carpool/)** - Region-scoped, self-hosted ride sharing.
 
