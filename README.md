@@ -1,3 +1,11 @@
+### Currently building
+
+**Athens Transit** — A live map, public API and Android app for Athens buses and trolleys. Built with Go, Svelte, MapLibre and Flutter. iOS support is in progress.
+
+**OpenCouncil** — Contributing to open-source tools that make local government meetings more accessible. My GSoC 2026 work focused on Greek speech recognition and evaluation.
+
+---
+
 # <p align="center">Hi there, I'm Angelos! 👋</p>
 
 <p align="center">
