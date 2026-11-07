@@ -1,6 +1,6 @@
 ### Currently building
 
-**Athens Transit** — A live map, public API and Android app for Athens buses and trolleys. Built with Go, Svelte, MapLibre and Flutter. iOS support is in progress.
+**[Staseis](https://staseis.gr)** — A live public-transport map, public API and Android app for Greek cities, live in Athens and Thessaloniki. Built with Go, Svelte, MapLibre and Flutter. iOS support is in progress.
 
 **OpenCouncil** — Contributing to open-source tools that make local government meetings more accessible. My GSoC 2026 work focused on Greek speech recognition and evaluation.
 
@@ -75,7 +75,7 @@ I'm a **software engineer** with an **MEng in Electrical & Computer Engineering*
 
 **🏛️ Civic tech & open data**
 - **[Atlas Prosvasis](https://atlas.haroldpoi.dev)** - Where in Greece you can actually book a public doctor, by prefecture and specialty.
-- **[Athens Transit](https://bus.haroldpoi.dev)** - Live map of Athens buses and trolleys with arrivals at every stop: [web map](https://github.com/angelospk/athens-transit-map) (Svelte), [GTFS-Realtime API](https://github.com/angelospk/athens-transit-rt) (Go), [mobile app](https://github.com/angelospk/athens-transit-app) (Flutter).
+- **[Staseis](https://staseis.gr)** - Live map of buses, metro, tram and suburban rail in Athens and Thessaloniki, with arrivals at every stop: [web map](https://github.com/angelospk/athens-transit-map) (Svelte), [GTFS-Realtime API](https://github.com/angelospk/staseis-rt) (Go), [mobile app](https://github.com/angelospk/athens-transit-app) (Flutter).
 - **[FindDoctors](https://github.com/angelospk/find_doctors_server)** - Go service that finds the earliest public appointment across hospitals and health centres.
 - **[Carpool](https://angelospk.github.io/projects/carpool/)** - Region-scoped, self-hosted ride sharing.
 
